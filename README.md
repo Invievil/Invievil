@@ -15,7 +15,7 @@
 > **"Information is the most valuable commodity."** > Я развиваюсь как специалист по ИБ и программированию, структурируя все знания в **Obsidian** и делясь опытом в своем медиапространстве.
 
 - 🛡️ **Focus:** Web Penetration Testing | Network Security | Scripting
-- 💻 **OS:** Arch Linux / Parrot OS (Main)
+- 💻 **OS:** Kali Linux / Parrot OS (Main)
 - 🧠 **Second Brain:** [Obsidian Digital Garden](ССЫЛКА_ЕСЛИ_ЕСТЬ)
 - ⚡ **Goal:** Becoming a Top-tier Security Researcher
 
@@ -47,11 +47,18 @@
 ---
 
 ### 📬 Establish Connection
+
 <p align="left">
-<a href="ТВОЯ_ССЫЛКА_ТГ"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-<a href="ТВОЯ_ССЫЛКА_YouTube/Blog"><img src="https://img.shields.io/badge/Media-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+<a href="https://t.me/ТВОЙ_НИК" target="blank"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
+<a href="https://instagram.com/ТВОЙ_НИК" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Invilevil&label=Profile%20Views&color=00ff00&style=flat-square" alt="Views" />
 </p>
 
 <p align="right">
-  <i>Last update: 2026-01-16. Protocol secured.</i>
+  <i>System Status: Operational. Last sync: 2026-01-16.</i>
 </p>
