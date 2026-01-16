@@ -1,7 +1,7 @@
-# 0x01: Hello, World! I'm Invilevil. 🥷
+# 0x01: System Breach Success. Welcome, I'm Invievil. 🥷
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,70:00ff00&height=200&section=header&text=Invilevil%20System&fontSize=70&animation=fadeIn&fontAlignY=35" alt="Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,70:00ff00&height=200&section=header&text=Invievil%20Terminal&fontSize=70&animation=fadeIn&fontAlignY=35" alt="Banner" />
 </p>
 
 <p align="center">
@@ -10,14 +10,12 @@
 
 ---
 
-### 🟢 Status Report: System Overview
+### 🟢 System Status: Online
 
-> **"Information is the most valuable commodity."** > Я развиваюсь как специалист по ИБ и программированию, структурируя все знания в **Obsidian** и делясь опытом в своем медиапространстве.
-
-- 🛡️ **Focus:** Web Penetration Testing | Network Security | Scripting
-- 💻 **OS:** Kali Linux / Parrot OS (Main)
-- 🧠 **Second Brain:** [Obsidian Digital Garden](ССЫЛКА_ЕСЛИ_ЕСТЬ)
-- ⚡ **Goal:** Becoming a Top-tier Security Researcher
+- 🛡️ **Focus:** Information Security & Programming
+- 💻 **OS:** Linux Enthusiast
+- 🧠 **Knowledge Base:** Managed via Obsidian
+- ⚡ **Current Objective:** Developing Media Space & Tech Skills
 
 ---
 
@@ -25,40 +23,28 @@
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/Obsidian-483699?style=for-the-badge&logo=obsidian&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
 
 ---
 
-### 📊 Terminal Stats
+### 📊 Security Metrics
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Invilevil&show_icons=true&theme=matrix&hide_border=false" />
-  <img width="44%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Invilevil&layout=compact&theme=matrix&hide_border=false" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Invilevil&theme=matrix" alt="GitHub Streak" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Invievil&show_icons=true&theme=matrix&hide_border=false" />
+  <img width="44%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Invievil&layout=compact&theme=matrix&hide_border=false" />
 </p>
 
 ---
 
-### 📬 Establish Connection
+### 📬 Connect to Node
 
 <p align="left">
-<a href="https://t.me/ТВОЙ_НИК" target="blank"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
-<a href="https://instagram.com/ТВОЙ_НИК" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+<a href="https://t.me/ТВОЙ_НИК" target="blank"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+<a href="https://instagram.com/ТВОЙ_НИК" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
-
----
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Invilevil&label=Profile%20Views&color=00ff00&style=flat-square" alt="Views" />
-</p>
-
-<p align="right">
-  <i>System Status: Operational. Last sync: 2026-01-16.</i>
+  <img src="https://komarev.com/ghpvc/?username=Invievil&label=Profile%20Views&color=00ff00&style=flat-square" />
 </p>
