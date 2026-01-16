@@ -36,12 +36,12 @@
 ### 📊 Terminal Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Invilevil&show_icons=true&theme=matrix&hide_border=true" />
-  <img width="44%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Invilevil&layout=compact&theme=matrix&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Invilevil&show_icons=true&theme=matrix&hide_border=false" />
+  <img width="44%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Invilevil&layout=compact&theme=matrix&hide_border=false" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Invilevil&theme=matrix&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Invilevil&theme=matrix" alt="GitHub Streak" />
 </p>
 
 ---
