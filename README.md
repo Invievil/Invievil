@@ -29,12 +29,20 @@
 
 ---
 
+---
+
 ### 📊 Security Metrics
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Invievil&show_icons=true&theme=matrix&hide_border=false" />
-  <img width="44%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Invievil&layout=compact&theme=matrix&hide_border=false" />
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Invievil&theme=monokai" />
 </p>
+
+<p align="center">
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Invievil&theme=monokai" />
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Invievil&theme=monokai" />
+</p>
+
+---
 
 ---
 
